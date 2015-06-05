@@ -1,0 +1,15 @@
+Cle IPC = 4100
+Chargement Fichier Top Score
+Creation et initialisation des IPC
+En attente de requetes...
+Demarrage du ThreadKeepAlive...
+Connection Client : pid=6704 login=student pseudo=Arcange
+Clients connectes = 1
+Reception Score : pid=6704 score=0
+Deconnection Client : pid=6704
+Clients connectes = 0
+Connection Client : pid=6872 login=student pseudo=Arcange
+Clients connectes = 1
+Reception Score : pid=6872 score=0
+Nettoyage Client pid=6872
+Clients connectes = 0
